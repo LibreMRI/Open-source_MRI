@@ -1,0 +1,1 @@
+Preamplifiers are low-noise and high-amplification devices used to amplify the NMR signal recorded from the resonator. These devices are tuned and therefore each device should state its frequency range and amplification factor.
